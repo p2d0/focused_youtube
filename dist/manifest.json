@@ -51,5 +51,10 @@
         "https://m.youtube.com/*"
       ]
     }
-  ]
+  ],
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "{c8f75e92-b7a8-4661-84e0-49978c2cc67f}"
+    }
+  }
 }

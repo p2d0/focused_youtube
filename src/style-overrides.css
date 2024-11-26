@@ -283,7 +283,7 @@ body.fy-watch-page #guide-content,
 body.fy-watch-page #guide-button,
 body.fy-watch-page #buttons.ytd-masthead,
 body.fy-watch-page #sub-menu,
-body.fy-watch-page #related,
+/* body.fy-watch-page #related, */
 body.fy-watch-page #subscribe-button,
 body.fy-watch-page ytd-sentiment-bar-renderer,
 body.fy-watch-page .html5-endscreen, /* Remove suggested video endscreen */
@@ -295,6 +295,7 @@ body.fy-watch-page ytd-live-chat-frame, /* Hide live chat and chat replay */
 body.fy-watch-page .ytd-browse .app-header,
 body.fy-watch-page #comments,
 body.fy-watch-page #description,
+ytd-watch-next-secondary-results-renderer,
 body.fy-watch-page #panels-full-bleed-container {
   display: none !important;
 }
